@@ -48,3 +48,4 @@ Authenticated routes need `Authorization: Bearer <access_token>`.
 - Keep `SUPABASE_SERVICE_ROLE_KEY` secret. Admin and payment routes depend on it.
 # supabase-resseller-server
 # supabase-resseller-server
+# supabase-resseller-server
